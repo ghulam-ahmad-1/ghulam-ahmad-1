@@ -1,3 +1,7 @@
+<h1 align="center">Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>, I am Ghulam Ahmad</h1>
+<br>
+<h3 align="center">A Passionate Student from pakistan having interest in Problem Solving and have Good Learning Attitude.</h3>
+<br>
 <p align="center">
           <a href="https://github.com/hydraphyzer"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2000&color=F9FF33&background=22CC3300&center=true&vCenter=true&width=500&lines=DSA+%7C+OOP+%7C+C%2B%2B+%7C+C+|;HTML+%7C+CSS+%7C+Python+|;Inetersted+to+Learn+New+Stacks"](https://git.io/typing-svg)></a>
 </p>
@@ -22,7 +26,8 @@
 🟢<a href="https://ghulamtalks1.blogspot.com/2022/11/basics-of-machine-learning.html">Random Password Generator using Python</a> 
 <br>
 <hr>
-</p align="center">
+<h1 align = "center">Links</h1>
+<p align="center">
 <a href="https://twitter.com/GhulamA381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GhulamA381" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ghulam-ahmad-840a06249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ghulam Ahmad" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ghulamahmad_1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghulamahmad_1" height="30" width="40" /></a>
@@ -36,7 +41,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,c,cpp,git,github,py," />
   </a>
 </p>
-<hr>
+<br>
 <table>
   <tr>
     <th>Stats</th>
@@ -54,21 +59,6 @@
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghulamahma&theme=2077&hide_border=false" />
     </span></a>
 <br>
-## ⚡️Github Contributions
-
-<h4 align="center">Isometric view of contributions in the last year</h4>
-
-<p align="center">
-  <a href="./profile-3d-contrib/profile-night-rainbow.svg">
-    <img width="900" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Isometric view of contributions in the last year">
-  </a>
-</p>
-## 🐛Github Magic Game
-
-<p align="center">
-  <img src="https://github.com/ghulamahma/ghulamahma/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
 <hr>
 <h2 align = "center">Profile Views 👀</h2> 
 <br> 
