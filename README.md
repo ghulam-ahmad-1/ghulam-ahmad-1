@@ -49,20 +49,20 @@
     <th>Languages</th>
   </tr>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghulamahma&theme=2077"/></td>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=ghulamahma&theme=radical&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghulamahma&theme=2077"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghulam-ahmad-1&theme=2077"/></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=ghulam-ahmad-1&theme=radical&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghulam-ahmad-1&theme=2077"/></td>
   </tr>
    <br>
 </table>
 <p align="center">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghulamahma&theme=2077&hide_border=false" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghulam-ahmad-1&theme=2077&hide_border=false" />
     </span></a>
 <br>
 <hr>
 <h2 align = "center">Profile Views 👀</h2> 
 <br> 
 <p align = "center">
-<img src="https://profile-counter.glitch.me/ghulamahma/count.svg" />
+<img src="https://profile-counter.glitch.me/ghulam-ahmad-1/count.svg" />
 </p>
 </p>
