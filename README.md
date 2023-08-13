@@ -38,7 +38,7 @@
 <h1 align="center"> Tech Stack</h1><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,c,cpp,git,github,py," />
+    <img src="https://skillicons.dev/icons?i=html,css,c,cpp,git,github,py,ts,js,nodejs" />
   </a>
 </p>
 <br>
