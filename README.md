@@ -18,7 +18,7 @@
 
 - ⚡ About Me : **I am good at Learning and Problem Solving**
 
-- ⚡ Interests : **🎯 MachineLearning** <bd>**🎯 DeepLearning**<br> **🎯 Artificial Intelligence**
+- ⚡ Interests : **🎯 MachineLearning** <bd>**🎯 DeepLearning**<bd> **🎯 Artificial Intelligence** <bd> ** 🎯 Web3.0 & Metaverse Development **
 <br>
 <h2 align ="left"><a href="ghulamtalks1.blogspot.com"></a>Blogspot :</h2>
 🟢<a href="https://ghulamtalks1.blogspot.com/2022/11/basics-of-machine-learning.html">Basics of Machine Learning</a> <br>
