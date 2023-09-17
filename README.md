@@ -1,16 +1,15 @@
 <h1 align="center">Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>, I am Ghulam Ahmad</h1>
 <br>
-<h4 align="center">I am a passionate student with a strong interest in problem-solving and a dedicated commitment to learning .</h4>
+<h3 align="center">I am a passionate student with a strong interest in problem-solving and a dedicated commitment to learning .</h3>
 <br>
 <p align="center">
-          <a href="https://github.com/hydraphyzer"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2000&color=F9FF33&background=22CC3300&center=true&vCenter=true&width=500&lines=DSA+%7C+OOP+%7C+C%2B%2B+%7C+C+|;HTML+%7C+CSS+%7C+Python+|;Inetersted+to+Learn+New+Stacks"](https://git.io/typing-svg)></a>
+          <a href="https://github.com/hydraphyzer"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2000&color=F9FF33&background=22CC3300&center=true&vCenter=true&width=500&lines=DSA+%7C+OOP+%7C+C%2B%2B+%7C+C+|;HTML+%7C+CSS+%7C+Python+|;|Artificial+Inelligence+|;Inetersted+to+Learn+New+Stacks"](https://git.io/typing-svg)></a>
 </p>
-<hr>
 <br>
 
 - ⚡ I’m Currently Learning : **Artificial Intelligence**
 
-- ⚡ Ask Me About : **C , C++ , HTML , CSS , Python**
+- ⚡ Ask Me About : **C , C++ , HTML , CSS , Python ,Machine Learning ,DeepLearning ,NLP**
 
 - ⚡ Feel Free to Concact Me : **ghulam.ahmad.uet@gmail.com**
 
@@ -18,7 +17,6 @@
 
 - ⚡ Interests : **🎯 MachineLearning** <bd>**🎯 DeepLearning**<bd> **🎯 Artificial Intelligence** <bd> **🎯 Web3.0 & Metaverse Development**
 <br>
-<hr>
 <h1 align = "center">Links</h1>
 <p align="center">
 <a href="https://twitter.com/GhulamA381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GhulamA381" height="30" width="40" /></a>
