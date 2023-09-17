@@ -8,22 +8,15 @@
 <hr>
 <br>
 
-- ⚡ I’m Currently Learning : **FrontEnd Web Development**
-
-- ⚡ I’m Currently Learning : **Full Stack Web Development**
+- ⚡ I’m Currently Learning : **Artificial Intelligence**
 
 - ⚡ Ask Me About : **C , C++ , HTML , CSS , Python**
 
-- ⚡ Feel Free to Concact Me : **programmer381@gmail.com**
+- ⚡ Feel Free to Concact Me : **ghulam.ahmad.uet@gmail.com**
 
 - ⚡ About Me : **I am good at Learning and Problem Solving**
 
 - ⚡ Interests : **🎯 MachineLearning** <bd>**🎯 DeepLearning**<bd> **🎯 Artificial Intelligence** <bd> **🎯 Web3.0 & Metaverse Development**
-<br>
-<h2 align ="left"><a href="ghulamtalks1.blogspot.com"></a>Blogspot :</h2>
-🟢<a href="https://ghulamtalks1.blogspot.com/2022/11/basics-of-machine-learning.html">Basics of Machine Learning</a> <br>
-🟢<a href="https://ghulamtalks1.blogspot.com/2022/11/basics-of-machine-learning.html">Top 03 Languages in 2022</a> <br>
-🟢<a href="https://ghulamtalks1.blogspot.com/2022/11/basics-of-machine-learning.html">Random Password Generator using Python</a> 
 <br>
 <hr>
 <h1 align = "center">Links</h1>
