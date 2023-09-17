@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>, I am Ghulam Ahmad</h1>
 <br>
-<h3 align="center">A Passionate Student from pakistan having interest in Problem Solving and have Good Learning Attitude.</h3>
+<h4 align="center">I am a passionate student with a strong interest in problem-solving and a dedicated commitment to learning .</h4>
 <br>
 <p align="center">
           <a href="https://github.com/hydraphyzer"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2000&color=F9FF33&background=22CC3300&center=true&vCenter=true&width=500&lines=DSA+%7C+OOP+%7C+C%2B%2B+%7C+C+|;HTML+%7C+CSS+%7C+Python+|;Inetersted+to+Learn+New+Stacks"](https://git.io/typing-svg)></a>
