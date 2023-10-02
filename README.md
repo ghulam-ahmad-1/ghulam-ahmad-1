@@ -46,6 +46,9 @@
   </tr>
    <br>
 </table>
+
+[![@ghulamahmad1's Holopin badges](https://holopin.me/ghulamahmad1)](https://holopin.io/@ghulamahmad1)
+
 <p align="center">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghulam-ahmad-1&theme=2077&hide_border=false" />
     </span></a>
