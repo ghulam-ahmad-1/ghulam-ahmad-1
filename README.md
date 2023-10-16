@@ -1,3 +1,4 @@
+<img src="1690788566623.jpg">
 <h1 align="center">Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>, I am Ghulam Ahmad</h1>
 <br>
 <h3 align="center">I am a passionate student with a strong interest in problem-solving and a dedicated commitment to learning .</h3>
