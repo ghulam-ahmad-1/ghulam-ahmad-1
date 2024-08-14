@@ -1,22 +1,18 @@
-<img src="Blue and White Architect LinkedIn Banner (1).png">
 <!-- <h1 align="center">Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>, I am Ghulam Ahmad</h1> -->
-<br>
-<h3 align="center">I am a passionate student with a strong interest in problem-solving and a dedicated commitment to learning .</h3>
+<h3 align="center">Machine Learning engineer and Researher insterested in learning new Stack & Tech in field of Gen AI And Computer Vision</h3>
 <br>
 <p align="center">
-          <a href="https://github.com/hydraphyzer"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2000&color=F9FF33&background=22CC3300&center=true&vCenter=true&width=500&lines=DSA+%7C+OOP+%7C+C%2B%2B+%7C+C+|;HTML+%7C+CSS+%7C+Python+|;|Artificial+Inelligence+|;Inetersted+to+Learn+New+Stacks"](https://git.io/typing-svg)></a>
+          <a href="https://github.com/hydraphyzer"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2000&color=F9FF33&background=22CC3300&center=true&vCenter=true&width=500&lines=|Artificial+Intelligence+|+|Computer+Vision|;|Research+work|;Inetersted+to+Learn+New+Stacks"](https://git.io/typing-svg)></a>
 </p>
 <br>
 
 - ⚡ I’m Currently Learning : **Artificial Intelligence**
 
-- ⚡ Ask Me About : **C , C++ , HTML , CSS , Python ,Machine Learning ,DeepLearning ,NLP**
-
 - ⚡ Feel Free to Concact Me : **ghulam.ahmad.uet@gmail.com**
 
 - ⚡ About Me : **I am good at Learning and Problem Solving**
 
-- ⚡ Interests : **🎯 MachineLearning** <bd>**🎯 DeepLearning**<bd> **🎯 Artificial Intelligence** <bd> **🎯 Web3.0 & Metaverse Development**
+- ⚡ Interests : **🎯 MachineLearning** <bd>**🎯 DeepLearning**<bd> **🎯 Artificial Intelligence** <bd> **🎯 Computer Vision** <bd> **🎯Research Work**
 <br>
 <h1 align = "center">Links</h1>
 <p align="center">
@@ -30,7 +26,7 @@
 <h1 align="center"> Tech Stack</h1><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,c,cpp,git,github,py,ts,js,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,c,cpp,git,github,py,ts,js" />
   </a>
 </p>
 <br>
