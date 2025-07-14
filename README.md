@@ -24,7 +24,7 @@
 - Streamlit, FastAPI, Flask, GitHub Actions  
 - LangChain, Gemini 1.5 Flash, Sentence Transformers
 
-### Focus Areas
+### 🎯 Focus Areas
 
 - Building efficient, production-grade AI solutions  
 - Fine-tuning and optimizing vision and language models  
@@ -32,5 +32,11 @@
 - Enabling explainable and interpretable AI  
 
 ### GitHub Stats
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghulam-ahmad-1&theme=github_dark" />
+<table align="center">
+    <tr>
+        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghulam-ahmad-1&theme=2077" /></td>
+        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghulam-ahmad-1&theme=2077" /></td>
+    </tr>
+</table>
+
 
