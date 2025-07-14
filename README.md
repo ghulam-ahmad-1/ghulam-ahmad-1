@@ -1,70 +1,73 @@
-<h1 align="center">Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>, I'm Ghulam Ahmad</h1>
-<h3 align="center">Machine Learning Engineer & Researcher | Passionate about Generative AI and Computer Vision</h3>
+<h1 align="center">Ghulam Ahmad</h1>
+<h3 align="center">AI/ML Engineer | Computer Vision Enthusiast | Generative AI Explorer</h3>
 
 <p align="center">
-    <a href="https://github.com/hydraphyzer">
-        <img src="https://readme-typing-svg.herokuapp.com?font=&duration=2000&color=F9FF33&background=22CC3300&center=true&vCenter=true&width=500&lines=Artificial+Intelligence;Computer+Vision;Research+Work;Always+Learning+New+Tech" alt="Typing SVG">
-    </a>
+  <a href="mailto:ghulam.ahmad.uet@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/ghulam-ahmad-840a06249/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/ghulam-ahmad-1"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="https://leetcode.com/GhulamAhmad381/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
 </p>
 
-- ⚡ **Interests:**  
-  - 🎯 Machine Learning  
-  - 🎯 Deep Learning  
-  - 🎯 Artificial Intelligence  
-  - 🎯 Computer Vision  
-  - 🎯 Research Work
+---
 
-- ⚡ **Feel Free to Contact Me:** [ghulam.ahmad.uet@gmail.com](mailto:ghulam.ahmad.uet@gmail.com)
+### 🚀 About Me
 
-<h1 align="center">Connect with Me</h1>
+Recent Electrical Engineering graduate specializing in Artificial Intelligence and Machine Learning. Experienced in building real-world deep learning applications involving:
+
+- 🔬 Image Restoration, Vision Transformers, and Generative AI  
+- 🤖 Natural Language Processing using Transformer models  
+- 🛠️ End-to-end model deployment using Streamlit, FastAPI, and CI/CD  
+
+Currently exploring cutting-edge models and pushing the boundaries of AI research through academic and open-source contributions.
+
+---
+
+### 🔧 Tech Stack
+
 <p align="center">
-    <a href="https://twitter.com/GhulamA381" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-    </a>
-    <a href="https://www.linkedin.com/in/ghulam-ahmad-840a06249/" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://www.instagram.com/ghulamahmad_1/" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-    </a>
-    <a href="https://leetcode.com/GhulamAhmad381/" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-    </a>
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,keras,opencv,html,css,js,ts,git,github,linux" />
 </p>
 
-<h1 align="center">Tech Stack</h1>
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,c,cpp,git,github,py,ts,js" alt="Tech Stack" />
-    </a>
-</p>
+- **ML & DL**: TensorFlow, PyTorch, Scikit-learn, Keras, XGBoost  
+- **Computer Vision**: OpenCV, Mediapipe, YOLO, VGG16  
+- **NLP & LLMs**: Hugging Face, RoBERTa, LangChain, Gemini 1.5 Flash  
+- **Deployment**: Flask, FastAPI, Streamlit, GitHub Actions  
+- **Visualization**: Plotly, Seaborn, Matplotlib
+
+---
+
+### 📌 Projects
+
+- **🔎 AskYourPDF** – Semantic QnA with Gemini 1.5 + ChromaDB  
+- **📷 Image Deblurring** – CNN-ViT hybrid for atmospheric blur removal  
+- **💬 Sentiment Analyzer** – RoBERTa-based classifier (92% accuracy)  
+- **🖐️ Finger Count App** – Real-time detection using OpenCV & Mediapipe  
+- **📰 Topic Modeler** – LDA on Medium articles with PyLDAvis visualization  
+
+---
+
+### 📊 GitHub Stats
+
 
 <table align="center">
-    <tr>
-        <th>Stats</th>
-        <th>Streaks</th>
-        <th>Languages</th>
-    </tr>
-    <tr>
-        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghulam-ahmad-1&theme=2077" alt="Stats" /></td>
-        <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=ghulam-ahmad-1&theme=radical&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888" alt="Streaks" /></a></td>
-        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghulam-ahmad-1&theme=2077" alt="Languages" /></td>
-    </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghulam-ahmad-1&theme=2077" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghulam-ahmad-1&theme=2077" /></td>
+  </tr>
 </table>
 
-<p align="center">
-    <a href="https://holopin.io/@ghulamahmad1">
-        <img src="https://holopin.me/ghulamahmad1" alt="Holopin Badges" />
-    </a>
-</p>
+---
+
+### 🧠 Learning Goals
+
+- Mastering **efficient fine-tuning** for LLMs  
+- Improving **model interpretability** and explainability  
+- Exploring **multi-modal AI** and advanced generative tools
+
+---
+
+### 👁️ Profile Views
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghulam-ahmad-1&theme=2077&hide_border=false" alt="Profile Details" />
-</p>
-
-<hr>
-
-<h2 align="center">Profile Views 👀</h2>
-<p align="center">
-    <img src="https://profile-counter.glitch.me/ghulam-ahmad-1/count.svg" alt="Profile Views Counter" />
+  <img src="https://profile-counter.glitch.me/ghulam-ahmad-1/count.svg" />
 </p>
