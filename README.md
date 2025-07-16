@@ -4,6 +4,7 @@
 <p align="center">
   <a href="mailto:ghulam.ahmad.uet@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/ghulam-ahmad-840a06249/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.kaggle.com/gamysterious"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
   <a href="https://leetcode.com/GhulamAhmad381/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
 </p>
 
